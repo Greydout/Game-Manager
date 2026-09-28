@@ -55,27 +55,9 @@ If metadata cannot be retrieved during the first attempt, the application can re
 
 Additional launchers and libraries may be added in future releases.
 
-## Screenshots
-
-Screenshots of the application will be added here.
-
-<!--
-Example:
-
-![Library](docs/screenshots/library.png)
-![Game Details](docs/screenshots/game-details.png)
--->
-
 ## Requirements
 
 - Windows 10 or Windows 11
 - .NET 10 Desktop Runtime
 - Internet connection for metadata, artwork, screenshots and trailers
 
-## Building From Source
-
-Clone the repository:
-
-```powershell
-git clone <repository-url>
-cd "<repository-folder>"
