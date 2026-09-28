@@ -27,7 +27,7 @@ A modern Windows game library manager that brings your **Steam, Epic Games, GOG 
 
 ## How It Works
 
-[APP NAME] scans supported game libraries and configured folders to discover installed games.
+GAME MANAGER scans supported game libraries and configured folders to discover installed games.
 
 Once a game is discovered, the application attempts to identify the title and automatically enrich the library with:
 
