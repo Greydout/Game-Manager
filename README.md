@@ -1,4 +1,8 @@
 # Game-Manager
+<img width="2477" height="1377" alt="image" src="https://github.com/user-attachments/assets/a6a05e0f-365a-4ac2-b538-1bb11f6577ab" />
+<img width="2553" height="1309" alt="image" src="https://github.com/user-attachments/assets/6aee7797-f67c-40f2-ad5a-bbd29bde0b77" />
+<img width="2487" height="1345" alt="image" src="https://github.com/user-attachments/assets/e5fcafc0-938c-4c3c-b740-8b02ddabfd60" />
+
 A modern Windows game library manager that brings your Steam, Epic Games, GOG and local game libraries into one place, automatically enriching titles with metadata, artwork, screenshots and YouTube trailers while giving you a clean, unified view of your entire PC game collection.
 
 
