@@ -53,6 +53,8 @@ If metadata cannot be retrieved during the first attempt, the application can re
 | Steam | ✅ |
 | Epic Games | ✅ |
 | GOG | ✅ |
+| Ubisoft Connect | ✅ |
+| Battlenet | ✅ |
 | Local folders | ✅ |
 
 Additional launchers and libraries may be added in future releases.
