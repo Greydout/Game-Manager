@@ -130,13 +130,8 @@ Development requires the .NET 10 SDK.
 ## Install
 
 Download the latest installer from the GitHub Releases page:
-
-`MyGameManager-1.0.35-Setup-x64.exe`
-
 A portable package is also available:
 
-`MyGameManager-1.0.35-Portable-win-x64.zip`
 
 The releases are currently unsigned, so Windows may display an unknown-publisher warning.
 
-## Development
