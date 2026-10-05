@@ -1,7 +1,9 @@
 # Game-Manager
-<img width="2477" height="1377" alt="image" src="https://github.com/user-attachments/assets/a6a05e0f-365a-4ac2-b538-1bb11f6577ab" />
-<img width="2553" height="1309" alt="image" src="https://github.com/user-attachments/assets/6aee7797-f67c-40f2-ad5a-bbd29bde0b77" />
-<img width="2487" height="1345" alt="image" src="https://github.com/user-attachments/assets/e5fcafc0-938c-4c3c-b740-8b02ddabfd60" />
+<img width="2553" height="1346" alt="image" src="https://github.com/user-attachments/assets/70695148-d6b3-4e75-9bc1-8566b80686d0" />
+<img width="2554" height="1024" alt="image" src="https://github.com/user-attachments/assets/010ca68d-66e4-471f-8a46-a572370b0b3e" />
+<img width="2504" height="1346" alt="image" src="https://github.com/user-attachments/assets/2fb0c26d-48f3-480a-a4c2-43f8b032986e" />
+<img width="2559" height="1388" alt="image" src="https://github.com/user-attachments/assets/5e28938b-425c-4e36-ac32-8fc4d2ccd514" />
+
 
 
 A modern Windows game library manager that brings your Steam, Epic Games, GOG, Ubisoft Connect, Battle.net, EA app, and local games together in one place.
