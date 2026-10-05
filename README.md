@@ -106,17 +106,17 @@ The picker uses saved library snapshots, so connect or refresh a library first t
 **Controls**
 
 Keyboard
-- Ctrl + F — Focus library search
-- F5 — Refresh the current library
-- F11 — Toggle full-screen mode
-- Escape — Return or exit full-screen mode
+- Ctrl + F - Focus library search
+- F5 - Refresh the current library
+- F11 - Toggle full-screen mode
+- Escape - Return or exit full-screen mode
 Controller
-- D-pad or left stick — Navigate
-- A — Select
-- B — Go back
-- X — Play or pause a trailer
-- Shoulder buttons — Switch libraries in sidebar order
-- Right stick — Scroll
+- D-pad or left stick - Navigate
+- A - Select
+- B - Go back
+- X - Play or pause a trailer
+- Shoulder buttons - Switch libraries in sidebar order
+- Right stick - Scroll
   
 **Privacy**
 
