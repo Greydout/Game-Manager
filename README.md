@@ -58,13 +58,21 @@ If automatic matching is uncertain, select the correct game manually or edit its
 **Supported Libraries**
 
 Library	Support	Library source
+
 Steam	✅	Owned Steam games
+
 Epic Games	✅	Owned Epic games
+
 GOG	✅	GOG account or local Galaxy data
+
 Ubisoft Connect	✅	Ubisoft Connect account cache
+
 Battle.net	✅	Connected account and saved game selection
+
 EA app	✅	Connected EA account and local installation manifests
+
 Local folders	✅	User-selected folders, drives, and network locations
+
 
 
 Launcher libraries include uninstalled owned games where account or launcher data makes that information available.
