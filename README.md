@@ -53,7 +53,7 @@ Discovered games can be enriched with:
 - Screenshots
 - YouTube or provider trailers
   
-Metadata and media are cached locally. Existing images are reused, and completed animated-cover searches are remembered—including searches that found no suitable cover.
+Metadata and media are cached locally. Existing images are reused, and completed animated-cover searches are remembered-including searches that found no suitable cover.
 Local rescans still detect new or removed games while avoiding completed artwork and metadata lookups. Failed or interrupted artwork requests remain eligible for retry.
 If automatic matching is uncertain, select the correct game manually or edit its information.
 
