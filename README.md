@@ -1,7 +1,6 @@
 # Game-Manager
 <img width="2553" height="1346" alt="image" src="https://github.com/user-attachments/assets/70695148-d6b3-4e75-9bc1-8566b80686d0" />
 <img width="2554" height="1024" alt="image" src="https://github.com/user-attachments/assets/010ca68d-66e4-471f-8a46-a572370b0b3e" />
-<img width="2504" height="1346" alt="image" src="https://github.com/user-attachments/assets/2fb0c26d-48f3-480a-a4c2-43f8b032986e" />
 <img width="2559" height="1388" alt="image" src="https://github.com/user-attachments/assets/5e28938b-425c-4e36-ac32-8fc4d2ccd514" />
 
 
