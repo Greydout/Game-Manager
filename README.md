@@ -40,6 +40,7 @@ Features
 - 📦 Installer and self-contained portable editions
 
 **How It Works**
+
 My Game Manager reads supported launcher libraries and scans the local folders you choose. Local scanning never executes detected files.
 Discovered games can be enriched with:
 - Game titles and release information
@@ -55,6 +56,7 @@ Local rescans still detect new or removed games while avoiding completed artwork
 If automatic matching is uncertain, select the correct game manually or edit its information.
 
 **Supported Libraries**
+
 Library	Support	Library source
 Steam	✅	Owned Steam games
 Epic Games	✅	Owned Epic games
@@ -75,6 +77,7 @@ Drag sidebar library entries into your preferred order. A placement line shows w
 Show or hide supported launcher libraries in Settings. Official launcher icons and a custom local-library controller icon make each collection easy to identify.
 
 **Artwork**
+
 My Game Manager supports provider artwork, SteamGridDB covers, and custom images.
 To assign custom artwork:
 1. Right-click a game card.
@@ -88,6 +91,7 @@ Supported animated WebP and GIF covers play while you hover over a card. Playbac
 Automatic refreshes reuse existing covers rather than repeatedly searching for replacements. Explicit per-game animation requests can upgrade a static cover.
 
 **Pick Something to Play**
+
 Open Pick something to play from the sidebar for an animated three-reel draw across your saved libraries.
 - Choose which libraries participate.
 - Use Installed only, enabled by default.
@@ -100,6 +104,7 @@ Hidden Steam, Epic, and GOG games and saved Battle.net selections are respected.
 The picker uses saved library snapshots, so connect or refresh a library first to populate it. Each eligible library entry has equal odds; a title owned on multiple launchers can appear as separate entries.
 
 **Controls**
+
 Keyboard
 - Ctrl + F — Focus library search
 - F5 — Refresh the current library
@@ -114,11 +119,13 @@ Controller
 - Right stick — Scroll
   
 **Privacy**
+
 Release packages do not include your personal library, passwords, account sessions, API tokens, browser cookies, logs, or custom artwork.
 Account sign-in takes place on the provider’s website through an embedded browser. My Game Manager does not read or store the password entered there. Browser sessions are retained locally in separate provider profiles.
 RAWG and SteamGridDB tokens are encrypted using Windows DPAPI for the current Windows account. EA access tokens are held in memory during synchronization and are not written into library snapshots.
 
 **Requirements**
+
 - Windows 10 version 2004 or later, or Windows 11
 - 64-bit processor
 - Internet access for account synchronization and online content
@@ -126,6 +133,7 @@ RAWG and SteamGridDB tokens are encrypted using Windows DPAPI for the current Wi
 Official releases are self-contained and include the required .NET runtime. Development requires the .NET 10 SDK.
 
 **Install**
+
 Download the latest setup installer or portable ZIP from the project’s GitHub Releases page.
 For the portable edition, extract the ZIP into a writable folder and run MyGameManager.exe. Keep the included files together, including portable.marker. Portable data is stored in the adjacent Data folder.
 When updating a portable installation, retain your existing Data folder.
